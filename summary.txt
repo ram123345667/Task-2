@@ -1,0 +1,20 @@
+Sales Performance Summary Slide
+1. Customer Segment Performance
+Consumer segment leads in total sales (₹118K+) and quantity sold.
+Home Office yields the highest profit despite fewer orders, suggesting high-margin products.
+
+2. Top Performing States
+California, New York, and Texas drive the highest sales volume.
+Visualized using a bar chart for the top 10 states.
+
+3. Regional Insights
+West region has the highest total sales and profit.
+South region shows lower profit margins, indicating possible discount impact.
+
+4. Product & Customer Trends
+Top products by profit include Fellowes PB500 and Canon imageCLASS.
+Top 20 customers identified, with sales values mostly between ₹5K–₹10K.
+
+5. Category & Sub-Category Analysis
+Chairs and Storage are leading sub-categories in terms of sales.
+Furniture dominates overall category sales.
