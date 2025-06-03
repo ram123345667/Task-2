@@ -1,0 +1,20 @@
+1.What is the importance of data visualization?
+Data visualization helps transform complex data into visual context, making it easier to identify patterns, trends, and outliers. It supports better decision-making, communicates insights clearly, and helps stakeholders quickly understand data.
+
+2.When do you use a pie chart vs bar chart?
+Use pie charts to show parts of a whole, typically with a few categories. Bar charts are better for comparing values across different groups, especially when dealing with many categories or when precision is important.
+
+3.How do you make visualizations more engaging?
+Use color effectively, keep layouts clean, add interactivity, and tailor visuals to your audience. Including clear labels, tooltips, and animations can enhance user experience and keep attention focused.
+
+4.What is data storytelling?
+Data storytelling combines data, visuals, and narrative to convey a clear and compelling message. It helps contextualize data, driving insights and decisions by guiding the audience through the "why" behind the numbers.
+
+5.How do you avoid misleading visualizations?
+Use accurate scales, avoid cherry-picking data, represent data honestly, and label charts clearly. Always maintain proportionality and avoid distorting the visual message to mislead or exaggerate trends.
+
+6.What are best practices in dashboard design?
+Focus on clarity, prioritize key metrics, use consistent visuals, ensure interactivity, and design for your audience’s needs. Keep it uncluttered, use appropriate chart types, and make it responsive for different devices.
+
+7.What tools have you used for visualization?
+Common tools include Tableau, Power BI, Excel, Plotly, D3.js, Google Data Studio, and Matplotlib/Seaborn in Python, depending on the complexity and purpose of the analysis.
